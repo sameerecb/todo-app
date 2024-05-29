@@ -1,6 +1,2 @@
-play
-clean
-bath
-drink juice
-we added default args in read
-drink coffee
+Learn Python!
+Learn Coding!
