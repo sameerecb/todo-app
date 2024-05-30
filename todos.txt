@@ -1,4 +1,5 @@
-Learn Python!
 Learn Coding!
 Learn Python Program!
 My latest todo is added!
+Learn Python!
+
